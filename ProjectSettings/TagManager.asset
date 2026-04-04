@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - PlayerBullet
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -65,4 +66,7 @@ TagManager:
     locked: 0
   - name: Gun
     uniqueID: 2488203427
+    locked: 0
+  - name: Enemy
+    uniqueID: 1347877679
     locked: 0
