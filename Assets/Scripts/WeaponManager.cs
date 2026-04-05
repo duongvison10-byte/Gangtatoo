@@ -32,4 +32,5 @@ public class WeaponManager : MonoBehaviour
 
         activeWeapons.Add(weaponObj);
     }
+
 }
