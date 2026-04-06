@@ -6,7 +6,6 @@ TagManager:
   tags:
   - PlayerBullet
   - Enemy
-  - EnergyBullet
   layers:
   - Default
   - TransparentFX
@@ -14,7 +13,7 @@ TagManager:
   - 
   - Water
   - UI
-  - Enemy
+  - 
   - 
   - 
   - 
@@ -64,9 +63,6 @@ TagManager:
     locked: 0
   - name: PlayerBullet
     uniqueID: 272233731
-    locked: 0
-  - name: EnergyBullet
-    uniqueID: 167851881
     locked: 0
   - name: Gun
     uniqueID: 2488203427
