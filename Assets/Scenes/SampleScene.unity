@@ -20419,7 +20419,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 8633284232798366866, guid: a83515ce97792af42ac5dad8d736c4b3, type: 3}
   m_PrefabInstance: {fileID: 7511276715876046736}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
+
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1958927278}
@@ -20436,15 +20436,15 @@ GameObject:
 --- !u!50 &1958927275
 Rigidbody2D:
   serializedVersion: 4
-=======
+
 --- !u!114 &1858351674
 MonoBehaviour:
->>>>>>> Stashed changes
+
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
+
   m_GameObject: {fileID: 1958927274}
   m_BodyType: 0
   m_Simulated: 1
@@ -20577,7 +20577,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
+
   m_GameObject: {fileID: 1858351667}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -20649,7 +20649,7 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1858351674}
   m_SourcePrefab: {fileID: 100100000, guid: a83515ce97792af42ac5dad8d736c4b3, type: 3}
->>>>>>> Stashed changes
+
 --- !u!1001 &9050730511195859748
 PrefabInstance:
   m_ObjectHideFlags: 0
